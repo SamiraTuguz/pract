@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\App.xaml
-3-1229815646
+5-1658049387
 2-1334350783
-29-183768019
+311074462770
 20-148868347
-View\Windows\AddProductWindow.xaml;View\Windows\AuthorizationWindow.xaml;View\Windows\MainWindow.xaml;
+View\Windows\AddProductWindow.xaml;View\Windows\AuthorizationWindow.xaml;View\Windows\DeleteProductWindow.xaml;View\Windows\EditProductWindow.xaml;View\Windows\MainWindow.xaml;
 
 False
 

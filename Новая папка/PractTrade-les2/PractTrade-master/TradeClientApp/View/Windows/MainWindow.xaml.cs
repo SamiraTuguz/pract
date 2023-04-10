@@ -28,7 +28,7 @@ namespace TradeClientApp.View.Windows
 
         private void btnDelete_Click(object sender, RoutedEventArgs e)
         {
-
+            new DeleteProductWindow().ShowDialog();
         }
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
@@ -38,7 +38,7 @@ namespace TradeClientApp.View.Windows
 
         private void btnEdit_Click(object sender, RoutedEventArgs e)
         {
-
+            new EditProductWindow().ShowDialog();
         }
 
         private void btnRestart_Click(object sender, RoutedEventArgs e)

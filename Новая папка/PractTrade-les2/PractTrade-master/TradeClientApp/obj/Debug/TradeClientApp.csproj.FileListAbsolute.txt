@@ -128,3 +128,7 @@ C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\
 C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\obj\Debug\TradeClientApp.pdb
 C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\obj\Debug\View\Windows\AddProductWindow.g.cs
 C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\obj\Debug\View\Windows\AddProductWindow.baml
+C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\obj\Debug\View\Windows\DeleteProductWindow.g.cs
+C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\obj\Debug\View\Windows\EditProductWindow.g.cs
+C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\obj\Debug\View\Windows\DeleteProductWindow.baml
+C:\aboba\Новая папка\PractTrade-les2\PractTrade-master\TradeClientApp\obj\Debug\View\Windows\EditProductWindow.baml
